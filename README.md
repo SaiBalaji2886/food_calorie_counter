@@ -19,11 +19,11 @@ The **Food Calorie Counter** is a web-based application that helps users monitor
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/jyothimayee8/food-calorie-counter.git
+   git clone https://github.com/SaiBalaji2886/food_calorie_counter
    ```
 2. Navigate to the project folder:
    ```sh
-   cd food-calorie-counter
+   cd food_calorie_counter
    ```
 3. Open `index.html` in a web browser.
 
